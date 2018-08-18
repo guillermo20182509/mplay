@@ -39,6 +39,9 @@
     },
     "phonegap-plugin-push": {
       "PACKAGE_NAME": "com.mplay.app"
+    },
+    "cordova-plugin-whitelist": {
+      "PACKAGE_NAME": "com.mplay.app"
     }
   },
   "dependent_plugins": {

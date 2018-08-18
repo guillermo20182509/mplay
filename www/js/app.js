@@ -32,7 +32,7 @@ var app = {
     usuario:"",
     password:"",
     name:"",
-    hostname:"http://www.oronoticias.org",
+    hostname:"http://www.tsjservicios.com.mx",
     urlVideo:"",
     tituloVideo:"",
 

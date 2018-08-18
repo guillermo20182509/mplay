@@ -27,11 +27,12 @@ var mainView = app7.views.create('.view-main');
 
 var app = {
 
+    
     autenticado: false,
     usuario:"",
     password:"",
     name:"",
-    hostname:"http://www.oronoticias.org",
+    hostname:"http://www.tsjservicios.com.mx",
     urlVideo:"",
     tituloVideo:"",
 
